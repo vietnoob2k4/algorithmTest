@@ -110,3 +110,5 @@ Kết quả kiểm thử cho thấy mức độ bao phủ mã nguồn là tối 
 - Tiếp tục duy trì chất lượng kiểm thử với mức độ bao phủ cao như hiện tại.
 - Đảm bảo rằng mọi thay đổi hoặc bổ sung trong mã nguồn được kiểm thử tương tự để duy trì mức độ bao phủ này.
 ![Ảnh chụp màn hình 2025-01-07 213641](https://github.com/user-attachments/assets/e7393f81-2b4d-47c9-8904-e6b35edc20bd)
+### Link ChatGpt:
+- https://chatgpt.com/c/677be512-a408-800d-a6fc-de168218921a
