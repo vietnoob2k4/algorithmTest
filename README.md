@@ -112,3 +112,5 @@ Kết quả kiểm thử cho thấy mức độ bao phủ mã nguồn là tối 
 ![Ảnh chụp màn hình 2025-01-07 213641](https://github.com/user-attachments/assets/e7393f81-2b4d-47c9-8904-e6b35edc20bd)
 ### Link ChatGpt:
 - https://chatgpt.com/c/677be512-a408-800d-a6fc-de168218921a
+### Link ChatGpt chấm điểm:
+- https://chatgpt.com/c/6783d940-a72c-800d-9c94-b2d7fbbde0e2
